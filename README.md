@@ -1,4 +1,13 @@
-
+<style>
+    body {
+      background-image: url('your_image_url.jpg');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      color: white; /* Change text color if needed */
+    }
+    /* Add more CSS styles as needed */
+  </style>
 <h1 align="center">Hello 👋, This is M.Anandha meenachi</h1>
 <h3 align="center">A passionate webpage developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_KLNKfPt8wMIZF9KxweN01HJmdtc2XCXba3fkscRV0ZoPGx_67caott-tZ_lTKujZmMA&usqp=CAU">
