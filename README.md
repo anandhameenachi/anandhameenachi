@@ -1,6 +1,6 @@
 <style>
     body {
-      background-image: url('your_image_url.jpg');
+      background-image: url('Screenshot (62).png');
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
